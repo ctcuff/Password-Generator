@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textMarginLeft">32dp</dimen>
+    <dimen name="textMarginBottom">32dp</dimen>
+    <dimen name="textMarginTop">16dp</dimen>
+    <dimen name="checkCirclePadding">15dp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="use_numbers">true</bool>
+    <bool name="use_upper">true</bool>
+    <bool name="use_lower">true</bool>
+    <integer name="default_pass_length">15</integer>
+    <integer name="max_pass_length">25</integer>
+    <integer name="min_pass_length">4</integer>
+</resources>

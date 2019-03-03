@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="pref_use_numbers">useNumbers</string>
+    <string name="pref_use_upper">useUppercase</string>
+    <string name="pref_use_lower">useLowercase</string>
+    <string name="pref_pass_length">passwordLength</string>
+</resources>
